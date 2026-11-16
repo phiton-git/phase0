@@ -1,4 +1,4 @@
-# Pandas Hero to Zero --- Flow Revisi
+# Pandas Hero to Zero 
 
 ## Tujuan Kurikulum
 

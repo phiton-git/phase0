@@ -668,4 +668,23 @@ MEDIAN
 INTERPRETASI HASIL
 ```
 
+
 **Ingat:** Median adalah nilai tengah dari data yang sudah diurutkan, bukan nilai yang kebetulan berada di tengah urutan data mentah.
+
+
+import pandas as pd
+
+# Contoh data kotor
+df = pd.DataFrame({
+    'price': ['Rp 150.000', 'Rp 25.000,-', 'IDR 1.200.000', 'Gratis', None]
+})
+
+# 1. Hapus semua karakter selain angka (0-9)
+df['price_clean'] = df['price'].astype(str).str.replace(r'[^0-9]', '', regex=True)
+
+# 2. Ubah string kosong menjadi NaN (jika ada teks seperti 'Gratis') lalu ubah ke tipe float/int
+df['price_clean'] = pd.to_numeric(df['price_clean'], errors='coerce')
+
+print
+
+(df)

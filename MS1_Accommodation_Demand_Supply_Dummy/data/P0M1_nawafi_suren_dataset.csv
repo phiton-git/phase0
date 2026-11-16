@@ -1,0 +1,601 @@
+id,name,neighbourhood,room_type,price,minimum_nights,number_of_reviews,reviews_per_month,availability_365,host_listings_count
+100001,Sample Stay 001,Geylang,Entire home/apt,144.47,3,21,1.57,109,5
+100002,Sample Stay 002,Little India,Private room,85.91,1,54,2.45,147,1
+100003,Sample Stay 003,Kallang,Private room,74.27,1,51,2.33,180,8
+100004,Sample Stay 004,Chinatown,Entire home/apt,211.21,1,27,1.81,203,3
+100005,Sample Stay 005,Geylang,Entire home/apt,105.84,4,14,1.56,179,1
+100006,Sample Stay 006,Geylang,Private room,44.57,4,23,1.14,268,1
+100007,Sample Stay 007,Little India,Private room,80.69,3,0,0.0,159,1
+100008,Sample Stay 008,Queenstown,Entire home/apt,129.83,1,26,1.32,179,1
+100009,Sample Stay 009,Queenstown,Entire home/apt,149.75,1,3,0.39,184,1
+100010,Sample Stay 010,Bugis,Entire home/apt,182.74,3,8,0.34,119,1
+100011,Sample Stay 011,Orchard,Shared room,68.57,4,10,0.66,157,1
+100012,Sample Stay 012,Chinatown,Private room,85.54,5,45,2.47,151,1
+100013,Sample Stay 013,Marina Bay,Entire home/apt,300.63,2,27,3.13,62,5
+100014,Sample Stay 014,Little India,Entire home/apt,167.83,1,6,0.38,238,1
+100015,Sample Stay 015,Kallang,Private room,43.54,1,18,0.78,168,3
+100016,Sample Stay 016,Orchard,Private room,80.27,3,46,1.79,225,1
+100017,Sample Stay 017,Marina Bay,Private room,222.74,5,62,3.7,155,1
+100018,Sample Stay 018,Kallang,Entire home/apt,139.49,2,10,0.4,193,1
+100019,Sample Stay 019,Chinatown,Private room,89.5,2,33,3.2,59,1
+100020,Sample Stay 020,Queenstown,Entire home/apt,149.03,3,7,0.43,157,1
+100021,Sample Stay 021,Marina Bay,Entire home/apt,292.46,3,1,0.18,107,2
+100022,Sample Stay 022,Geylang,Private room,66.04,1,48,2.4,216,5
+100023,Sample Stay 023,Chinatown,Private room,93.55,3,72,2.67,162,1
+100024,Sample Stay 024,Kallang,Private room,55.6,4,20,2.01,115,1
+100025,Sample Stay 025,Little India,Private room,115.79,2,9,0.86,80,1
+100026,Sample Stay 026,Geylang,Private room,107.53,1,10,1.24,106,5
+100027,Sample Stay 027,Orchard,Entire home/apt,233.18,1,24,1.31,132,1
+100028,Sample Stay 028,Chinatown,Entire home/apt,188.18,5,11,1.07,355,1
+100029,Sample Stay 029,Bugis,Entire home/apt,152.19,5,59,2.31,213,8
+100030,Sample Stay 030,Queenstown,Private room,87.09,4,20,1.29,265,1
+100031,Sample Stay 031,Little India,Entire home/apt,135.2,2,25,2.02,213,1
+100032,Sample Stay 032,Geylang,Entire home/apt,159.47,7,86,4.32,234,2
+100033,Sample Stay 033,Bugis,Private room,90.24,4,14,0.75,182,1
+100034,Sample Stay 034,Geylang,Entire home/apt,81.11,1,11,0.48,223,5
+100035,Sample Stay 035,Orchard,Private room,108.33,3,18,1.07,23,2
+100036,Sample Stay 036,Queenstown,Private room,47.02,7,31,2.14,179,2
+100037,Sample Stay 037,Geylang,Entire home/apt,130.35,4,14,1.74,152,5
+100038,Sample Stay 038,Bugis,Entire home/apt,267.17,3,25,0.93,175,2
+100039,Sample Stay 039,Kallang,Entire home/apt,234.37,3,2,0.15,194,3
+100040,Sample Stay 040,Chinatown,Entire home/apt,153.5,2,73,2.9,0,1
+100041,Sample Stay 041,Queenstown,Entire home/apt,167.7,1,32,1.41,155,1
+100042,Sample Stay 042,Kallang,Private room,77.2,1,69,2.84,48,1
+100043,Sample Stay 043,Queenstown,Private room,89.85,3,66,3.39,223,3
+100044,Sample Stay 044,Orchard,Private room,102.27,1,63,3.29,162,1
+100045,Sample Stay 045,Queenstown,Private room,103.68,1,17,0.9,203,1
+100046,Sample Stay 046,Orchard,Shared room,68.79,3,51,3.11,165,1
+100047,Sample Stay 047,Bugis,Entire home/apt,204.58,1,57,3.96,124,1
+100048,Sample Stay 048,Orchard,Private room,95.86,1,26,1.47,103,2
+100049,Sample Stay 049,Little India,Private room,88.51,4,64,3.87,296,2
+100050,Sample Stay 050,Queenstown,Private room,85.02,2,17,0.71,221,1
+100051,Sample Stay 051,Chinatown,Entire home/apt,173.37,2,3,0.29,88,1
+100052,Sample Stay 052,Little India,Entire home/apt,51.21,7,144,6.79,111,1
+100053,Sample Stay 053,Little India,Entire home/apt,172.87,2,45,2.55,255,3
+100054,Sample Stay 054,Kallang,Entire home/apt,202.87,2,29,3.5,235,1
+100055,Sample Stay 055,Kallang,Entire home/apt,101.61,1,9,0.86,125,3
+100056,Sample Stay 056,Little India,Private room,73.56,4,53,2.18,198,1
+100057,Sample Stay 057,Geylang,Private room,64.34,7,12,0.88,118,5
+100058,Sample Stay 058,Little India,Entire home/apt,176.41,1,26,1.4,179,1
+100059,Sample Stay 059,Chinatown,Private room,102.51,14,122,5.68,122,8
+100060,Sample Stay 060,Geylang,Private room,75.91,4,15,0.57,285,1
+100061,Sample Stay 061,Geylang,Private room,59.48,1,7,0.5,234,8
+100062,Sample Stay 062,Bugis,Private room,136.49,3,17,1.31,198,1
+100063,Sample Stay 063,Marina Bay,Private room,104.18,4,10,1.02,189,1
+100064,Sample Stay 064,Queenstown,Entire home/apt,172.38,3,17,1.68,251,3
+100065,Sample Stay 065,Chinatown,Private room,89.63,3,12,1.82,88,1
+100066,Sample Stay 066,Geylang,Private room,95.22,1,17,1.28,57,5
+100067,Sample Stay 067,Bugis,Entire home/apt,275.44,1,37,2.9,155,1
+100068,Sample Stay 068,Kallang,Private room,65.72,1,25,1.49,197,2
+100069,Sample Stay 069,Little India,Private room,65.67,1,60,3.35,161,2
+100070,Sample Stay 070,Geylang,Entire home/apt,141.05,14,8,0.92,146,1
+100071,Sample Stay 071,Marina Bay,Private room,137.52,2,10,1.69,109,1
+100072,Sample Stay 072,Marina Bay,Entire home/apt,274.06,2,30,1.43,235,1
+100073,Sample Stay 073,Chinatown,Entire home/apt,212.5,1,0,0.0,176,1
+100074,Sample Stay 074,Bugis,Private room,82.63,1,49,4.82,52,1
+100075,Sample Stay 075,Kallang,Entire home/apt,116.82,4,7,1.41,185,1
+100076,Sample Stay 076,Marina Bay,Entire home/apt,144.98,1,95,3.89,134,1
+100077,Sample Stay 077,Orchard,Private room,102.13,1,19,1.47,282,2
+100078,Sample Stay 078,Chinatown,Private room,107.98,1,0,0.0,212,1
+100079,Sample Stay 079,Orchard,Private room,174.13,4,38,4.6,117,1
+100080,Sample Stay 080,Orchard,Private room,90.68,1,44,1.75,162,3
+100081,Sample Stay 081,Bugis,Private room,103.06,1,3,0.7,62,1
+100082,Sample Stay 082,Orchard,Private room,128.19,3,12,0.7,262,2
+100083,Sample Stay 083,Kallang,Entire home/apt,162.41,1,21,0.83,135,1
+100084,Sample Stay 084,Geylang,Entire home/apt,92.92,1,58,3.67,55,2
+100085,Sample Stay 085,Queenstown,Entire home/apt,158.54,4,76,3.28,88,1
+100086,Sample Stay 086,Orchard,Private room,117.71,14,23,1.92,167,1
+100087,Sample Stay 087,Little India,Entire home/apt,178.64,7,8,1.06,191,1
+100088,Sample Stay 088,Geylang,Entire home/apt,142.18,1,3,0.35,139,1
+100089,Sample Stay 089,Bugis,Entire home/apt,199.43,1,5,0.77,54,1
+100090,Sample Stay 090,Chinatown,Private room,97.79,7,36,4.5,46,1
+100091,Sample Stay 091,Little India,Entire home/apt,92.05,3,24,0.99,153,1
+100092,Sample Stay 092,Geylang,Entire home/apt,82.11,2,11,1.54,124,3
+100093,Sample Stay 093,Marina Bay,Entire home/apt,218.86,1,57,2.33,216,3
+100094,Sample Stay 094,Chinatown,Private room,127.92,1,30,1.8,124,1
+100095,Sample Stay 095,Bugis,Private room,101.15,1,19,2.25,261,1
+100096,Sample Stay 096,Orchard,Entire home/apt,289.95,1,26,1.86,238,1
+100097,Sample Stay 097,Orchard,Shared room,80.67,4,1,0.26,110,1
+100098,Sample Stay 098,Queenstown,Private room,86.06,4,20,3.99,119,8
+100099,Sample Stay 099,Chinatown,Entire home/apt,223.82,1,19,1.58,204,2
+100100,Sample Stay 100,Bugis,Private room,73.37,2,76,3.14,187,1
+100101,Sample Stay 101,Bugis,Private room,99.5,3,58,4.12,209,1
+100102,Sample Stay 102,Geylang,Private room,67.49,2,12,1.6,205,1
+100103,Sample Stay 103,Geylang,Private room,76.51,1,5,0.53,73,1
+100104,Sample Stay 104,Orchard,Entire home/apt,222.45,1,43,2.04,197,5
+100105,Sample Stay 105,Little India,Entire home/apt,147.1,2,50,3.53,165,3
+100106,Sample Stay 106,Little India,Entire home/apt,173.35,5,8,0.68,185,1
+100107,Sample Stay 107,Kallang,Private room,64.76,14,7,0.5,340,1
+100108,Sample Stay 108,Little India,Entire home/apt,151.08,3,12,1.4,241,1
+100109,Sample Stay 109,Chinatown,Private room,129.68,1,18,2.0,54,1
+100110,Sample Stay 110,Bugis,Private room,92.84,14,68,2.69,150,1
+100111,Sample Stay 111,Marina Bay,Private room,173.5,2,34,1.24,181,8
+100112,Sample Stay 112,Bugis,Entire home/apt,223.42,14,89,4.38,158,1
+100113,Sample Stay 113,Geylang,Private room,54.13,2,77,3.03,66,1
+100114,Sample Stay 114,Queenstown,Entire home/apt,149.81,2,0,0.0,141,1
+100115,Sample Stay 115,Little India,Private room,76.21,1,1,0.18,142,1
+100116,Sample Stay 116,Geylang,Entire home/apt,125.02,2,14,1.43,37,2
+100117,Sample Stay 117,Marina Bay,Entire home/apt,262.51,1,70,3.53,151,1
+100118,Sample Stay 118,Chinatown,Private room,130.29,5,12,0.59,164,1
+100119,Sample Stay 119,Little India,Private room,108.78,1,20,1.39,160,2
+100120,Sample Stay 120,Queenstown,Private room,88.92,1,12,1.9,107,1
+100121,Sample Stay 121,Orchard,Private room,137.32,1,10,1.67,146,1
+100122,Sample Stay 122,Little India,Entire home/apt,117.23,1,4,0.61,207,3
+100123,Sample Stay 123,Chinatown,Entire home/apt,150.01,2,65,2.47,138,1
+100124,Sample Stay 124,Marina Bay,Entire home/apt,144.82,1,117,4.21,149,1
+100125,Sample Stay 125,Bugis,Entire home/apt,175.94,3,46,2.86,67,8
+100126,Sample Stay 126,Chinatown,Entire home/apt,153.57,1,55,2.99,225,1
+100127,Sample Stay 127,Bugis,Entire home/apt,204.51,7,5,0.29,248,1
+100128,Sample Stay 128,Little India,Private room,67.13,2,25,1.81,225,1
+100129,Sample Stay 129,Little India,Private room,75.92,5,80,3.0,241,1
+100130,Sample Stay 130,Kallang,Private room,82.42,1,0,0.0,267,1
+100131,Sample Stay 131,Bugis,Entire home/apt,212.6,2,16,1.87,171,2
+100132,Sample Stay 132,Bugis,Private room,126.43,7,17,1.28,172,1
+100133,Sample Stay 133,Queenstown,Private room,81.34,14,4,0.57,158,2
+100134,Sample Stay 134,Queenstown,Entire home/apt,183.0,5,8,1.01,251,1
+100135,Sample Stay 135,Chinatown,Private room,103.35,2,37,2.9,191,1
+100136,Sample Stay 136,Kallang,Entire home/apt,169.05,14,28,1.9,145,1
+100137,Sample Stay 137,Marina Bay,Private room,117.24,7,15,2.62,140,5
+100138,Sample Stay 138,Queenstown,Entire home/apt,188.6,5,23,1.67,136,1
+100139,Sample Stay 139,Marina Bay,Shared room,105.64,1,46,2.18,236,3
+100140,Sample Stay 140,Kallang,Private room,53.04,1,56,2.08,175,2
+100141,Sample Stay 141,Bugis,Entire home/apt,194.2,2,0,0.0,211,5
+100142,Sample Stay 142,Little India,Entire home/apt,162.22,1,141,5.14,145,1
+100143,Sample Stay 143,Marina Bay,Entire home/apt,255.73,1,27,2.86,143,2
+100144,Sample Stay 144,Little India,Private room,99.51,2,12,0.89,238,2
+100145,Sample Stay 145,Little India,Entire home/apt,192.64,3,6,0.71,221,5
+100146,Sample Stay 146,Orchard,Entire home/apt,153.81,2,23,1.48,85,1
+100147,Sample Stay 147,Marina Bay,Private room,199.72,3,40,2.55,129,1
+100148,Sample Stay 148,Queenstown,Private room,78.61,2,25,1.28,285,1
+100149,Sample Stay 149,Kallang,Entire home/apt,170.68,5,30,1.39,74,1
+100150,Sample Stay 150,Orchard,Private room,63.89,7,15,1.64,138,1
+100151,Sample Stay 151,Bugis,Private room,114.34,3,12,1.11,193,1
+100152,Sample Stay 152,Orchard,Private room,97.13,1,10,0.68,225,3
+100153,Sample Stay 153,Orchard,Entire home/apt,257.71,2,25,2.28,283,1
+100154,Sample Stay 154,Bugis,Entire home/apt,112.95,1,55,2.23,133,8
+100155,Sample Stay 155,Little India,Private room,74.67,4,0,0.0,51,1
+100156,Sample Stay 156,Little India,Private room,57.94,1,19,0.79,116,3
+100157,Sample Stay 157,Chinatown,Entire home/apt,181.71,3,14,1.64,199,1
+100158,Sample Stay 158,Marina Bay,Shared room,81.66,5,10,0.97,227,5
+100159,Sample Stay 159,Orchard,Private room,95.03,1,16,1.09,219,1
+100160,Sample Stay 160,Geylang,Private room,65.41,5,3,0.51,37,1
+100161,Sample Stay 161,Bugis,Private room,90.11,2,6,0.44,118,1
+100162,Sample Stay 162,Queenstown,Private room,72.28,14,42,1.95,261,2
+100163,Sample Stay 163,Marina Bay,Entire home/apt,197.06,1,100,4.29,107,1
+100164,Sample Stay 164,Chinatown,Entire home/apt,189.22,7,16,2.91,164,1
+100165,Sample Stay 165,Little India,Private room,98.05,7,100,4.03,149,1
+100166,Sample Stay 166,Little India,Private room,77.61,4,66,3.91,127,2
+100167,Sample Stay 167,Queenstown,Private room,77.37,1,4,0.33,260,2
+100168,Sample Stay 168,Kallang,Entire home/apt,173.29,3,23,1.11,57,5
+100169,Sample Stay 169,Kallang,Entire home/apt,151.5,2,34,3.01,141,2
+100170,Sample Stay 170,Chinatown,Shared room,59.31,2,37,1.56,188,1
+100171,Sample Stay 171,Orchard,Private room,112.06,2,15,1.09,188,5
+100172,Sample Stay 172,Marina Bay,Private room,146.52,5,14,1.32,138,1
+100173,Sample Stay 173,Marina Bay,Shared room,79.16,3,2,0.11,158,1
+100174,Sample Stay 174,Queenstown,Private room,42.99,3,16,1.28,131,1
+100175,Sample Stay 175,Orchard,Entire home/apt,166.38,1,97,5.31,43,2
+100176,Sample Stay 176,Little India,Private room,77.37,2,4,0.46,93,2
+100177,Sample Stay 177,Orchard,Entire home/apt,318.34,5,10,0.46,145,1
+100178,Sample Stay 178,Orchard,Private room,109.79,1,22,1.16,282,1
+100179,Sample Stay 179,Orchard,Private room,105.36,3,7,0.72,99,1
+100180,Sample Stay 180,Geylang,Entire home/apt,115.52,2,39,1.51,238,1
+100181,Sample Stay 181,Bugis,Private room,140.9,1,38,2.41,196,8
+100182,Sample Stay 182,Bugis,Entire home/apt,246.52,1,10,1.89,39,1
+100183,Sample Stay 183,Orchard,Shared room,67.15,3,21,2.08,162,5
+100184,Sample Stay 184,Bugis,Private room,129.13,14,4,0.26,196,8
+100185,Sample Stay 185,Kallang,Private room,77.29,5,32,2.73,89,1
+100186,Sample Stay 186,Kallang,Shared room,45.61,4,22,1.33,206,1
+100187,Sample Stay 187,Bugis,Private room,85.48,2,23,2.26,68,2
+100188,Sample Stay 188,Little India,Entire home/apt,168.68,1,0,0.0,220,1
+100189,Sample Stay 189,Queenstown,Entire home/apt,112.73,2,2,0.44,201,1
+100190,Sample Stay 190,Kallang,Private room,86.25,1,16,0.99,104,1
+100191,Sample Stay 191,Bugis,Entire home/apt,129.42,1,0,0.0,59,1
+100192,Sample Stay 192,Geylang,Private room,73.43,1,8,0.85,159,1
+100193,Sample Stay 193,Bugis,Entire home/apt,153.81,7,0,0.0,230,1
+100194,Sample Stay 194,Geylang,Shared room,42.08,14,37,1.96,236,1
+100195,Sample Stay 195,Little India,Entire home/apt,99.75,1,39,3.21,135,8
+100196,Sample Stay 196,Geylang,Entire home/apt,143.98,1,25,1.02,85,1
+100197,Sample Stay 197,Queenstown,Entire home/apt,134.05,7,9,1.28,144,1
+100198,Sample Stay 198,Chinatown,Entire home/apt,267.88,4,58,2.38,165,1
+100199,Sample Stay 199,Kallang,Private room,71.43,5,5,0.92,127,1
+100200,Sample Stay 200,Orchard,Entire home/apt,282.35,2,24,1.24,83,1
+100201,Sample Stay 201,Marina Bay,Entire home/apt,317.58,2,5,1.09,121,1
+100202,Sample Stay 202,Chinatown,Entire home/apt,130.34,4,33,2.94,148,2
+100203,Sample Stay 203,Little India,Private room,115.85,1,29,1.06,81,1
+100204,Sample Stay 204,Bugis,Private room,121.27,2,115,6.95,89,1
+100205,Sample Stay 205,Bugis,Shared room,62.6,14,22,1.99,62,3
+100206,Sample Stay 206,Chinatown,Private room,126.72,1,77,3.74,178,1
+100207,Sample Stay 207,Geylang,Entire home/apt,149.17,2,86,4.76,49,1
+100208,Sample Stay 208,Kallang,Entire home/apt,181.15,2,69,2.95,146,5
+100209,Sample Stay 209,Little India,Private room,59.17,14,51,5.63,79,1
+100210,Sample Stay 210,Marina Bay,Private room,145.16,1,5,0.53,185,1
+100211,Sample Stay 211,Chinatown,Entire home/apt,148.55,1,69,2.63,214,1
+100212,Sample Stay 212,Bugis,Entire home/apt,222.24,4,70,2.99,148,1
+100213,Sample Stay 213,Kallang,Entire home/apt,207.63,4,0,0.0,171,1
+100214,Sample Stay 214,Queenstown,Entire home/apt,170.32,2,25,1.71,194,3
+100215,Sample Stay 215,Chinatown,Private room,115.12,2,20,2.41,149,1
+100216,Sample Stay 216,Little India,Entire home/apt,181.86,1,53,6.53,33,1
+100217,Sample Stay 217,Orchard,Private room,162.31,1,9,1.43,120,1
+100218,Sample Stay 218,Queenstown,Entire home/apt,167.31,1,18,2.0,172,1
+100219,Sample Stay 219,Little India,Private room,65.15,1,19,2.84,183,1
+100220,Sample Stay 220,Kallang,Shared room,41.49,2,5,0.48,204,2
+100221,Sample Stay 221,Marina Bay,Entire home/apt,263.19,2,52,2.08,43,1
+100222,Sample Stay 222,Chinatown,Entire home/apt,208.46,1,8,0.87,187,1
+100223,Sample Stay 223,Little India,Entire home/apt,120.9,2,23,1.38,238,5
+100224,Sample Stay 224,Queenstown,Entire home/apt,147.2,3,18,2.34,96,2
+100225,Sample Stay 225,Bugis,Private room,71.76,3,6,1.15,100,1
+100226,Sample Stay 226,Orchard,Private room,134.85,2,5,0.7,118,3
+100227,Sample Stay 227,Geylang,Entire home/apt,115.68,14,4,0.71,210,2
+100228,Sample Stay 228,Marina Bay,Entire home/apt,360.29,7,20,1.63,231,1
+100229,Sample Stay 229,Bugis,Private room,119.52,14,13,1.14,202,1
+100230,Sample Stay 230,Geylang,Private room,59.03,1,17,0.62,188,1
+100231,Sample Stay 231,Orchard,Private room,71.62,3,39,1.89,189,3
+100232,Sample Stay 232,Chinatown,Private room,64.19,1,33,5.06,184,3
+100233,Sample Stay 233,Queenstown,Entire home/apt,151.79,1,12,0.54,205,1
+100234,Sample Stay 234,Bugis,Shared room,65.99,5,46,2.22,186,1
+100235,Sample Stay 235,Bugis,Entire home/apt,189.51,2,37,4.42,0,3
+100236,Sample Stay 236,Little India,Entire home/apt,179.63,5,0,0.0,158,8
+100237,Sample Stay 237,Marina Bay,Private room,179.87,3,0,0.0,242,1
+100238,Sample Stay 238,Orchard,Entire home/apt,279.86,3,26,2.47,73,1
+100239,Sample Stay 239,Chinatown,Entire home/apt,250.3,3,6,0.81,341,1
+100240,Sample Stay 240,Bugis,Entire home/apt,236.47,1,34,1.57,141,1
+100241,Sample Stay 241,Geylang,Private room,64.35,5,79,2.93,187,1
+100242,Sample Stay 242,Geylang,Entire home/apt,122.77,14,42,2.35,94,1
+100243,Sample Stay 243,Bugis,Private room,120.41,3,32,4.41,63,1
+100244,Sample Stay 244,Bugis,Private room,94.04,1,116,6.24,162,1
+100245,Sample Stay 245,Chinatown,Entire home/apt,90.78,4,0,0.0,196,1
+100246,Sample Stay 246,Kallang,Private room,114.87,1,75,3.21,122,1
+100247,Sample Stay 247,Little India,Shared room,48.37,1,13,1.35,105,2
+100248,Sample Stay 248,Bugis,Entire home/apt,181.19,7,0,0.0,225,1
+100249,Sample Stay 249,Little India,Entire home/apt,127.66,1,2,0.2,176,1
+100250,Sample Stay 250,Orchard,Entire home/apt,310.15,2,41,1.6,185,3
+100251,Sample Stay 251,Little India,Private room,81.53,3,20,1.49,180,1
+100252,Sample Stay 252,Bugis,Private room,126.49,2,26,2.24,203,1
+100253,Sample Stay 253,Bugis,Private room,55.18,1,29,5.13,173,1
+100254,Sample Stay 254,Geylang,Private room,70.78,3,36,1.31,183,1
+100255,Sample Stay 255,Little India,Private room,102.51,2,7,0.32,170,1
+100256,Sample Stay 256,Orchard,Entire home/apt,220.62,2,25,1.01,189,1
+100257,Sample Stay 257,Orchard,Entire home/apt,194.51,1,50,2.46,177,1
+100258,Sample Stay 258,Geylang,Entire home/apt,115.49,3,5,0.24,179,1
+100259,Sample Stay 259,Geylang,Entire home/apt,66.73,1,99,3.67,134,1
+100260,Sample Stay 260,Kallang,Private room,85.63,3,3,0.24,227,3
+100261,Sample Stay 261,Little India,Private room,63.92,2,98,4.36,183,1
+100262,Sample Stay 262,Queenstown,Entire home/apt,165.71,4,21,1.5,306,2
+100263,Sample Stay 263,Geylang,Entire home/apt,157.77,2,2,0.18,278,1
+100264,Sample Stay 264,Orchard,Private room,99.34,7,51,3.34,190,1
+100265,Sample Stay 265,Bugis,Private room,106.42,2,28,1.15,127,1
+100266,Sample Stay 266,Little India,Entire home/apt,191.08,1,10,0.78,113,3
+100267,Sample Stay 267,Kallang,Private room,94.41,5,21,1.22,132,1
+100268,Sample Stay 268,Queenstown,Private room,113.51,7,43,4.04,280,1
+100269,Sample Stay 269,Orchard,Private room,103.98,2,26,1.14,160,1
+100270,Sample Stay 270,Bugis,Entire home/apt,138.16,4,24,2.08,155,1
+100271,Sample Stay 271,Chinatown,Entire home/apt,205.85,1,63,2.59,33,1
+100272,Sample Stay 272,Geylang,Entire home/apt,105.17,1,0,0.0,273,3
+100273,Sample Stay 273,Marina Bay,Private room,139.49,5,104,3.98,151,1
+100274,Sample Stay 274,Chinatown,Entire home/apt,234.54,2,40,1.72,182,3
+100275,Sample Stay 275,Marina Bay,Private room,113.65,3,15,2.16,222,1
+100276,Sample Stay 276,Chinatown,Entire home/apt,193.35,3,9,1.46,286,2
+100277,Sample Stay 277,Kallang,Private room,73.66,3,18,1.14,331,1
+100278,Sample Stay 278,Little India,Entire home/apt,89.7,2,87,3.47,123,1
+100279,Sample Stay 279,Marina Bay,Entire home/apt,184.61,1,75,3.64,153,1
+100280,Sample Stay 280,Kallang,Shared room,42.37,2,12,0.81,290,1
+100281,Sample Stay 281,Queenstown,Private room,81.47,3,0,0.0,159,1
+100282,Sample Stay 282,Orchard,Entire home/apt,266.73,1,31,2.1,152,2
+100283,Sample Stay 283,Chinatown,Private room,81.39,3,84,4.94,147,1
+100284,Sample Stay 284,Marina Bay,Entire home/apt,347.93,2,0,0.0,302,1
+100285,Sample Stay 285,Orchard,Entire home/apt,206.72,1,0,0.0,155,1
+100286,Sample Stay 286,Chinatown,Private room,65.05,1,104,3.78,121,1
+100287,Sample Stay 287,Little India,Shared room,36.42,14,77,2.93,136,1
+100288,Sample Stay 288,Kallang,Entire home/apt,149.28,7,17,2.05,89,1
+100289,Sample Stay 289,Geylang,Entire home/apt,119.77,1,18,3.53,235,1
+100290,Sample Stay 290,Geylang,Entire home/apt,83.94,3,7,0.72,96,1
+100291,Sample Stay 291,Queenstown,Private room,51.18,2,0,0.0,44,2
+100292,Sample Stay 292,Orchard,Entire home/apt,256.4,2,61,2.7,166,1
+100293,Sample Stay 293,Kallang,Private room,67.25,1,40,1.47,123,1
+100294,Sample Stay 294,Little India,Entire home/apt,119.3,2,19,0.99,139,1
+100295,Sample Stay 295,Kallang,Private room,60.37,3,12,1.06,27,1
+100296,Sample Stay 296,Little India,Entire home/apt,114.21,1,20,0.85,134,1
+100297,Sample Stay 297,Little India,Private room,54.76,3,18,0.98,242,1
+100298,Sample Stay 298,Geylang,Entire home/apt,113.05,3,104,4.12,105,2
+100299,Sample Stay 299,Geylang,Entire home/apt,143.81,7,10,0.48,160,1
+100300,Sample Stay 300,Little India,Entire home/apt,150.94,1,34,5.38,123,1
+100301,Sample Stay 301,Orchard,Shared room,63.24,3,38,1.46,164,2
+100302,Sample Stay 302,Bugis,Private room,75.07,2,14,2.03,151,1
+100303,Sample Stay 303,Geylang,Private room,59.15,1,49,4.7,156,3
+100304,Sample Stay 304,Chinatown,Entire home/apt,154.64,1,0,0.0,271,2
+100305,Sample Stay 305,Queenstown,Private room,77.34,3,58,2.89,297,2
+100306,Sample Stay 306,Geylang,Entire home/apt,108.54,2,72,2.94,108,8
+100307,Sample Stay 307,Bugis,Entire home/apt,167.71,2,43,1.92,104,1
+100308,Sample Stay 308,Geylang,Entire home/apt,133.74,1,40,2.03,103,1
+100309,Sample Stay 309,Little India,Entire home/apt,131.3,1,18,1.17,229,1
+100310,Sample Stay 310,Orchard,Private room,124.98,3,3,0.66,135,2
+100311,Sample Stay 311,Geylang,Private room,68.06,4,10,1.69,297,3
+100312,Sample Stay 312,Little India,Private room,91.11,5,6,0.88,94,1
+100313,Sample Stay 313,Chinatown,Entire home/apt,164.62,7,71,3.34,146,1
+100314,Sample Stay 314,Geylang,Entire home/apt,102.61,1,13,0.5,312,1
+100315,Sample Stay 315,Marina Bay,Private room,186.83,1,19,2.13,71,1
+100316,Sample Stay 316,Marina Bay,Private room,177.72,1,0,0.0,136,1
+100317,Sample Stay 317,Chinatown,Private room,110.22,1,69,3.49,86,5
+100318,Sample Stay 318,Bugis,Entire home/apt,173.86,1,12,0.68,214,1
+100319,Sample Stay 319,Geylang,Entire home/apt,117.79,1,21,1.03,166,1
+100320,Sample Stay 320,Queenstown,Private room,94.03,3,6,0.84,159,1
+100321,Sample Stay 321,Orchard,Shared room,83.48,2,10,0.87,135,1
+100322,Sample Stay 322,Little India,Entire home/apt,178.89,5,44,2.74,157,1
+100323,Sample Stay 323,Queenstown,Entire home/apt,137.25,3,30,1.94,111,1
+100324,Sample Stay 324,Orchard,Entire home/apt,244.81,7,30,1.45,153,2
+100325,Sample Stay 325,Queenstown,Private room,80.3,2,0,0.0,210,1
+100326,Sample Stay 326,Little India,Private room,89.97,1,61,3.76,208,1
+100327,Sample Stay 327,Kallang,Private room,52.03,2,53,1.92,155,2
+100328,Sample Stay 328,Marina Bay,Entire home/apt,258.43,3,12,0.66,214,1
+100329,Sample Stay 329,Marina Bay,Private room,188.87,1,58,2.49,172,1
+100330,Sample Stay 330,Queenstown,Entire home/apt,203.9,2,3,0.31,207,1
+100331,Sample Stay 331,Chinatown,Private room,100.73,1,21,2.98,168,1
+100332,Sample Stay 332,Geylang,Private room,81.21,4,18,1.46,93,1
+100333,Sample Stay 333,Chinatown,Private room,136.15,3,27,1.46,232,1
+100334,Sample Stay 334,Chinatown,Private room,93.7,1,0,0.0,230,1
+100335,Sample Stay 335,Bugis,Entire home/apt,225.89,2,64,3.65,165,1
+100336,Sample Stay 336,Geylang,Private room,58.29,2,8,1.46,222,2
+100337,Sample Stay 337,Kallang,Entire home/apt,100.23,3,39,1.53,183,3
+100338,Sample Stay 338,Queenstown,Private room,86.46,2,1,0.19,168,1
+100339,Sample Stay 339,Orchard,Private room,117.36,1,78,5.52,86,1
+100340,Sample Stay 340,Bugis,Entire home/apt,204.38,7,36,3.39,0,1
+100341,Sample Stay 341,Little India,Entire home/apt,152.62,1,1,0.11,219,3
+100342,Sample Stay 342,Chinatown,Private room,101.1,2,2,0.51,181,8
+100343,Sample Stay 343,Geylang,Shared room,36.05,1,20,1.72,157,2
+100344,Sample Stay 344,Queenstown,Private room,76.42,2,3,0.24,224,1
+100345,Sample Stay 345,Bugis,Private room,95.01,7,71,4.0,27,1
+100346,Sample Stay 346,Geylang,Private room,89.72,1,38,1.63,172,2
+100347,Sample Stay 347,Geylang,Entire home/apt,149.76,2,58,3.26,207,1
+100348,Sample Stay 348,Queenstown,Private room,96.05,7,54,2.45,128,1
+100349,Sample Stay 349,Orchard,Private room,129.9,2,93,6.26,93,1
+100350,Sample Stay 350,Orchard,Private room,154.46,1,42,1.81,287,1
+100351,Sample Stay 351,Little India,Entire home/apt,116.7,5,43,2.73,60,1
+100352,Sample Stay 352,Kallang,Entire home/apt,90.35,5,60,2.58,219,1
+100353,Sample Stay 353,Kallang,Private room,77.98,4,38,1.61,227,3
+100354,Sample Stay 354,Bugis,Private room,112.83,4,25,1.85,142,3
+100355,Sample Stay 355,Orchard,Private room,157.28,4,67,2.87,185,1
+100356,Sample Stay 356,Bugis,Private room,117.1,4,24,0.88,135,3
+100357,Sample Stay 357,Queenstown,Shared room,47.02,1,5,1.07,125,1
+100358,Sample Stay 358,Orchard,Entire home/apt,323.14,3,9,0.45,284,1
+100359,Sample Stay 359,Orchard,Entire home/apt,169.65,3,21,1.21,182,3
+100360,Sample Stay 360,Geylang,Private room,56.23,1,22,3.45,86,3
+100361,Sample Stay 361,Orchard,Private room,120.03,1,56,2.52,196,1
+100362,Sample Stay 362,Chinatown,Entire home/apt,254.61,1,4,0.66,226,1
+100363,Sample Stay 363,Bugis,Private room,92.33,1,42,2.88,56,1
+100364,Sample Stay 364,Orchard,Entire home/apt,256.58,2,15,0.63,144,1
+100365,Sample Stay 365,Little India,Entire home/apt,135.05,4,7,1.11,262,1
+100366,Sample Stay 366,Kallang,Private room,83.27,1,4,0.3,182,1
+100367,Sample Stay 367,Marina Bay,Entire home/apt,169.87,3,79,3.89,110,1
+100368,Sample Stay 368,Geylang,Private room,64.68,14,40,1.74,203,5
+100369,Sample Stay 369,Bugis,Private room,102.58,5,19,1.81,73,2
+100370,Sample Stay 370,Geylang,Shared room,36.09,3,74,3.45,138,2
+100371,Sample Stay 371,Bugis,Entire home/apt,229.13,5,39,1.58,164,1
+100372,Sample Stay 372,Orchard,Entire home/apt,231.33,2,18,1.6,173,5
+100373,Sample Stay 373,Orchard,Shared room,52.12,1,7,0.58,185,1
+100374,Sample Stay 374,Little India,Shared room,35.06,3,3,0.49,269,2
+100375,Sample Stay 375,Kallang,Entire home/apt,198.74,7,5,0.74,98,1
+100376,Sample Stay 376,Geylang,Entire home/apt,138.25,1,28,1.24,152,1
+100377,Sample Stay 377,Chinatown,Entire home/apt,154.01,2,66,3.41,153,5
+100378,Sample Stay 378,Queenstown,Private room,84.19,3,18,1.66,179,1
+100379,Sample Stay 379,Queenstown,Private room,87.44,2,11,0.93,144,5
+100380,Sample Stay 380,Little India,Entire home/apt,237.95,2,1,0.29,269,2
+100381,Sample Stay 381,Chinatown,Private room,93.48,3,22,1.99,42,1
+100382,Sample Stay 382,Chinatown,Entire home/apt,183.34,3,25,3.76,178,1
+100383,Sample Stay 383,Marina Bay,Private room,188.09,7,14,0.92,52,1
+100384,Sample Stay 384,Orchard,Entire home/apt,336.7,14,17,1.21,138,2
+100385,Sample Stay 385,Kallang,Private room,55.35,14,26,2.48,204,1
+100386,Sample Stay 386,Geylang,Private room,69.95,7,0,0.06,182,1
+100387,Sample Stay 387,Queenstown,Private room,81.45,2,23,0.99,186,1
+100388,Sample Stay 388,Bugis,Private room,105.1,2,25,1.72,177,1
+100389,Sample Stay 389,Queenstown,Entire home/apt,156.38,1,79,3.05,132,1
+100390,Sample Stay 390,Little India,Private room,82.97,2,14,1.99,336,1
+100391,Sample Stay 391,Orchard,Entire home/apt,168.69,1,20,1.7,163,1
+100392,Sample Stay 392,Kallang,Shared room,35.5,1,13,1.73,198,1
+100393,Sample Stay 393,Chinatown,Entire home/apt,133.68,2,11,1.42,82,1
+100394,Sample Stay 394,Orchard,Entire home/apt,305.57,1,24,1.65,146,1
+100395,Sample Stay 395,Orchard,Entire home/apt,184.42,1,10,2.01,58,1
+100396,Sample Stay 396,Bugis,Entire home/apt,155.05,4,4,0.44,152,1
+100397,Sample Stay 397,Orchard,Entire home/apt,205.83,1,0,0.0,118,1
+100398,Sample Stay 398,Bugis,Entire home/apt,138.47,1,26,0.99,196,1
+100399,Sample Stay 399,Geylang,Private room,72.38,2,54,4.44,64,3
+100400,Sample Stay 400,Chinatown,Private room,55.75,4,23,2.26,149,1
+100401,Sample Stay 401,Chinatown,Private room,81.95,3,16,1.37,255,5
+100402,Sample Stay 402,Chinatown,Private room,76.87,3,15,1.39,182,1
+100403,Sample Stay 403,Kallang,Entire home/apt,165.66,3,0,0.0,173,1
+100404,Sample Stay 404,Orchard,Entire home/apt,180.84,1,61,3.55,65,1
+100405,Sample Stay 405,Marina Bay,Entire home/apt,350.57,4,18,1.0,232,1
+100406,Sample Stay 406,Geylang,Private room,61.01,3,17,0.81,193,2
+100407,Sample Stay 407,Kallang,Private room,109.22,5,22,1.22,193,3
+100408,Sample Stay 408,Chinatown,Private room,84.46,4,34,2.04,127,1
+100409,Sample Stay 409,Queenstown,Private room,127.75,3,12,0.77,167,3
+100410,Sample Stay 410,Geylang,Private room,63.21,2,8,1.46,160,1
+100411,Sample Stay 411,Bugis,Entire home/apt,239.88,2,44,2.9,212,1
+100412,Sample Stay 412,Bugis,Entire home/apt,164.97,2,0,0.0,179,1
+100413,Sample Stay 413,Kallang,Private room,35.0,1,23,1.15,227,3
+100414,Sample Stay 414,Geylang,Entire home/apt,101.68,2,6,0.99,178,1
+100415,Sample Stay 415,Marina Bay,Private room,170.07,5,25,2.83,155,1
+100416,Sample Stay 416,Orchard,Private room,59.47,3,75,4.9,147,1
+100417,Sample Stay 417,Geylang,Entire home/apt,154.74,1,21,0.78,225,1
+100418,Sample Stay 418,Orchard,Entire home/apt,293.64,1,23,1.34,118,1
+100419,Sample Stay 419,Kallang,Entire home/apt,202.16,4,10,0.54,365,2
+100420,Sample Stay 420,Queenstown,Entire home/apt,166.13,4,0,0.0,284,1
+100421,Sample Stay 421,Orchard,Entire home/apt,259.34,5,37,3.26,51,5
+100422,Sample Stay 422,Queenstown,Entire home/apt,122.02,3,24,1.1,211,8
+100423,Sample Stay 423,Bugis,Private room,81.49,1,63,3.03,90,1
+100424,Sample Stay 424,Chinatown,Private room,97.77,7,59,3.13,277,1
+100425,Sample Stay 425,Marina Bay,Entire home/apt,367.34,4,44,2.15,176,1
+100426,Sample Stay 426,Geylang,Shared room,50.14,1,26,1.36,145,1
+100427,Sample Stay 427,Queenstown,Entire home/apt,158.45,3,64,2.68,122,1
+100428,Sample Stay 428,Little India,Entire home/apt,124.92,3,15,2.12,214,5
+100429,Sample Stay 429,Marina Bay,Entire home/apt,364.3,1,16,2.03,199,1
+100430,Sample Stay 430,Little India,Entire home/apt,113.28,7,17,1.87,192,1
+100431,Sample Stay 431,Little India,Entire home/apt,162.88,3,8,0.8,249,1
+100432,Sample Stay 432,Little India,Shared room,40.92,2,6,0.85,198,1
+100433,Sample Stay 433,Orchard,Private room,138.13,4,0,0.0,174,1
+100434,Sample Stay 434,Bugis,Private room,125.31,2,35,1.6,120,1
+100435,Sample Stay 435,Little India,Entire home/apt,119.21,1,37,1.68,120,1
+100436,Sample Stay 436,Chinatown,Entire home/apt,156.44,7,12,1.99,294,2
+100437,Sample Stay 437,Orchard,Entire home/apt,242.55,1,29,1.55,129,1
+100438,Sample Stay 438,Little India,Entire home/apt,98.8,1,16,0.69,209,1
+100439,Sample Stay 439,Little India,Private room,104.1,1,0,0.0,159,5
+100440,Sample Stay 440,Marina Bay,Entire home/apt,281.63,2,21,1.09,25,1
+100441,Sample Stay 441,Bugis,Entire home/apt,205.44,3,9,0.75,154,8
+100442,Sample Stay 442,Orchard,Entire home/apt,220.71,3,2,0.13,176,1
+100443,Sample Stay 443,Bugis,Private room,79.95,1,95,4.13,115,1
+100444,Sample Stay 444,Queenstown,Entire home/apt,179.75,1,55,1.98,198,1
+100445,Sample Stay 445,Chinatown,Entire home/apt,141.99,2,0,0.0,159,1
+100446,Sample Stay 446,Orchard,Entire home/apt,204.01,1,37,1.48,182,1
+100447,Sample Stay 447,Marina Bay,Entire home/apt,333.84,1,34,1.53,185,3
+100448,Sample Stay 448,Geylang,Private room,45.08,3,13,0.68,88,1
+100449,Sample Stay 449,Bugis,Entire home/apt,224.94,5,0,0.0,162,1
+100450,Sample Stay 450,Chinatown,Entire home/apt,97.68,1,0,0.0,217,1
+100451,Sample Stay 451,Orchard,Private room,120.2,4,28,2.52,109,2
+100452,Sample Stay 452,Orchard,Private room,125.61,1,9,1.11,171,1
+100453,Sample Stay 453,Queenstown,Entire home/apt,135.89,1,54,2.2,171,8
+100454,Sample Stay 454,Geylang,Private room,65.0,7,43,2.0,268,1
+100455,Sample Stay 455,Orchard,Shared room,59.61,1,17,0.63,148,1
+100456,Sample Stay 456,Geylang,Entire home/apt,153.62,1,51,2.5,198,1
+100457,Sample Stay 457,Chinatown,Entire home/apt,179.07,2,20,1.04,225,3
+100458,Sample Stay 458,Marina Bay,Private room,177.91,2,32,2.6,215,1
+100459,Sample Stay 459,Little India,Entire home/apt,193.62,3,31,1.97,157,1
+100460,Sample Stay 460,Chinatown,Shared room,66.35,1,18,2.3,189,1
+100461,Sample Stay 461,Bugis,Private room,109.8,1,68,4.45,142,1
+100462,Sample Stay 462,Little India,Entire home/apt,172.89,2,0,0.0,175,1
+100463,Sample Stay 463,Marina Bay,Entire home/apt,327.26,5,22,0.79,284,1
+100464,Sample Stay 464,Chinatown,Entire home/apt,228.74,4,12,0.9,225,1
+100465,Sample Stay 465,Bugis,Entire home/apt,188.41,4,32,2.75,116,1
+100466,Sample Stay 466,Bugis,Entire home/apt,235.06,3,26,1.42,290,1
+100467,Sample Stay 467,Orchard,Entire home/apt,234.14,1,6,0.61,152,1
+100468,Sample Stay 468,Bugis,Entire home/apt,177.08,2,0,0.0,187,1
+100469,Sample Stay 469,Orchard,Private room,112.01,1,7,1.03,71,1
+100470,Sample Stay 470,Bugis,Entire home/apt,62.14,7,34,1.29,129,1
+100471,Sample Stay 471,Bugis,Private room,105.22,2,54,2.55,213,1
+100472,Sample Stay 472,Chinatown,Entire home/apt,150.5,1,23,1.17,147,1
+100473,Sample Stay 473,Kallang,Private room,105.53,7,106,5.13,101,1
+100474,Sample Stay 474,Marina Bay,Entire home/apt,370.08,2,68,3.06,245,1
+100475,Sample Stay 475,Orchard,Entire home/apt,202.78,5,6,0.36,256,1
+100476,Sample Stay 476,Geylang,Private room,70.81,2,27,1.56,216,2
+100477,Sample Stay 477,Chinatown,Private room,110.86,2,45,1.76,189,1
+100478,Sample Stay 478,Chinatown,Private room,133.83,2,0,0.0,11,3
+100479,Sample Stay 479,Bugis,Entire home/apt,251.57,2,16,0.73,168,1
+100480,Sample Stay 480,Geylang,Private room,65.55,1,35,3.14,122,1
+100481,Sample Stay 481,Queenstown,Entire home/apt,171.79,3,7,0.38,240,1
+100482,Sample Stay 482,Orchard,Private room,110.08,2,45,3.39,147,1
+100483,Sample Stay 483,Little India,Private room,84.21,5,108,3.86,141,1
+100484,Sample Stay 484,Chinatown,Entire home/apt,176.3,3,21,0.94,177,1
+100485,Sample Stay 485,Chinatown,Entire home/apt,188.78,4,5,0.57,218,1
+100486,Sample Stay 486,Bugis,Entire home/apt,252.09,2,35,2.46,121,1
+100487,Sample Stay 487,Orchard,Entire home/apt,239.49,2,12,1.08,133,2
+100488,Sample Stay 488,Little India,Private room,77.6,3,19,2.13,146,3
+100489,Sample Stay 489,Marina Bay,Private room,200.75,2,73,3.51,117,1
+100490,Sample Stay 490,Geylang,Entire home/apt,94.33,1,6,0.28,119,1
+100491,Sample Stay 491,Orchard,Private room,84.15,1,34,1.8,202,1
+100492,Sample Stay 492,Marina Bay,Entire home/apt,415.26,3,37,1.44,125,5
+100493,Sample Stay 493,Orchard,Entire home/apt,275.47,2,5,0.74,156,1
+100494,Sample Stay 494,Queenstown,Private room,60.49,3,10,0.55,218,1
+100495,Sample Stay 495,Geylang,Private room,56.53,1,33,2.32,256,1
+100496,Sample Stay 496,Bugis,Entire home/apt,152.64,1,13,0.9,257,5
+100497,Sample Stay 497,Queenstown,Private room,86.59,3,28,5.15,45,1
+100498,Sample Stay 498,Queenstown,Entire home/apt,175.53,3,59,2.66,144,1
+100499,Sample Stay 499,Orchard,Entire home/apt,250.14,1,11,0.4,204,1
+100500,Sample Stay 500,Bugis,Private room,147.21,5,10,1.64,55,1
+100501,Sample Stay 501,Orchard,Entire home/apt,226.27,7,23,1.39,190,1
+100502,Sample Stay 502,Chinatown,Entire home/apt,182.83,14,91,4.25,0,1
+100503,Sample Stay 503,Little India,Entire home/apt,155.5,7,10,0.91,103,1
+100504,Sample Stay 504,Geylang,Entire home/apt,150.98,14,24,0.99,210,1
+100505,Sample Stay 505,Chinatown,Entire home/apt,115.96,5,11,0.49,200,1
+100506,Sample Stay 506,Little India,Private room,68.24,1,42,2.56,199,1
+100507,Sample Stay 507,Chinatown,Entire home/apt,157.49,3,64,2.36,179,1
+100508,Sample Stay 508,Orchard,Entire home/apt,165.64,5,0,0.0,129,1
+100509,Sample Stay 509,Little India,Entire home/apt,182.68,2,7,0.62,172,1
+100510,Sample Stay 510,Marina Bay,Entire home/apt,338.52,1,19,1.67,209,8
+100511,Sample Stay 511,Kallang,Entire home/apt,126.89,3,4,0.2,245,1
+100512,Sample Stay 512,Queenstown,Entire home/apt,168.06,1,12,0.63,162,1
+100513,Sample Stay 513,Marina Bay,Private room,178.46,5,32,1.73,24,1
+100514,Sample Stay 514,Orchard,Private room,125.73,14,16,1.49,193,1
+100515,Sample Stay 515,Orchard,Entire home/apt,206.5,1,0,0.0,126,1
+100516,Sample Stay 516,Kallang,Private room,90.66,2,11,1.59,234,1
+100517,Sample Stay 517,Marina Bay,Entire home/apt,388.08,2,36,1.57,222,5
+100518,Sample Stay 518,Bugis,Entire home/apt,191.08,3,27,3.33,188,1
+100519,Sample Stay 519,Chinatown,Entire home/apt,127.79,3,29,1.85,191,1
+100520,Sample Stay 520,Orchard,Private room,127.43,5,10,0.51,208,1
+100521,Sample Stay 521,Orchard,Private room,46.86,1,105,3.9,230,3
+100522,Sample Stay 522,Queenstown,Private room,84.52,4,92,3.44,92,1
+100523,Sample Stay 523,Kallang,Entire home/apt,104.52,1,19,1.54,42,1
+100524,Sample Stay 524,Queenstown,Private room,84.36,3,10,0.6,317,1
+100525,Sample Stay 525,Geylang,Entire home/apt,121.82,3,85,7.95,102,1
+100526,Sample Stay 526,Little India,Entire home/apt,150.7,1,39,2.02,218,3
+100527,Sample Stay 527,Marina Bay,Entire home/apt,302.67,3,16,0.76,162,1
+100528,Sample Stay 528,Orchard,Entire home/apt,260.32,3,5,1.0,127,3
+100529,Sample Stay 529,Little India,Entire home/apt,177.24,4,86,3.89,152,1
+100530,Sample Stay 530,Little India,Private room,92.77,3,8,1.19,155,1
+100531,Sample Stay 531,Kallang,Private room,97.31,2,77,2.77,154,1
+100532,Sample Stay 532,Little India,Private room,62.89,1,100,4.78,164,2
+100533,Sample Stay 533,Orchard,Entire home/apt,252.89,1,41,2.97,78,8
+100534,Sample Stay 534,Bugis,Entire home/apt,168.11,2,0,0.0,147,1
+100535,Sample Stay 535,Orchard,Private room,182.33,2,56,2.48,169,1
+100536,Sample Stay 536,Orchard,Private room,176.62,1,13,0.85,183,2
+100537,Sample Stay 537,Marina Bay,Shared room,96.56,7,12,0.82,275,1
+100538,Sample Stay 538,Bugis,Private room,123.32,5,20,0.88,174,2
+100539,Sample Stay 539,Geylang,Shared room,40.54,5,5,0.3,186,2
+100540,Sample Stay 540,Orchard,Shared room,83.55,1,0,0.0,261,1
+100541,Sample Stay 541,Geylang,Entire home/apt,154.87,4,10,1.66,158,5
+100542,Sample Stay 542,Orchard,Private room,126.27,1,11,2.33,139,1
+100543,Sample Stay 543,Chinatown,Private room,89.11,5,31,1.54,144,1
+100544,Sample Stay 544,Chinatown,Private room,98.52,7,66,3.97,85,1
+100545,Sample Stay 545,Little India,Private room,101.69,1,26,1.53,122,1
+100546,Sample Stay 546,Chinatown,Entire home/apt,134.77,1,9,0.87,83,1
+100547,Sample Stay 547,Geylang,Entire home/apt,140.93,2,41,3.16,119,3
+100548,Sample Stay 548,Geylang,Entire home/apt,155.53,2,27,1.46,217,1
+100549,Sample Stay 549,Chinatown,Shared room,36.78,3,0,0.0,251,1
+100550,Sample Stay 550,Queenstown,Entire home/apt,140.31,3,11,1.28,71,5
+100551,Sample Stay 551,Orchard,Private room,108.24,1,0,0.0,189,1
+100552,Sample Stay 552,Orchard,Shared room,62.82,5,31,1.46,153,2
+100553,Sample Stay 553,Kallang,Private room,92.28,2,19,3.73,166,1
+100554,Sample Stay 554,Little India,Private room,86.23,3,0,0.0,170,1
+100555,Sample Stay 555,Little India,Entire home/apt,112.87,2,49,2.5,193,1
+100556,Sample Stay 556,Orchard,Entire home/apt,282.32,3,16,0.87,159,1
+100557,Sample Stay 557,Little India,Private room,83.94,1,18,2.86,112,1
+100558,Sample Stay 558,Geylang,Entire home/apt,98.21,1,6,0.46,208,1
+100559,Sample Stay 559,Orchard,Private room,109.76,2,17,1.34,221,1
+100560,Sample Stay 560,Orchard,Private room,150.84,1,0,0.0,175,1
+100561,Sample Stay 561,Geylang,Entire home/apt,128.54,3,8,0.49,218,1
+100562,Sample Stay 562,Kallang,Entire home/apt,113.94,4,72,3.95,148,1
+100563,Sample Stay 563,Marina Bay,Entire home/apt,246.83,4,48,1.97,120,2
+100564,Sample Stay 564,Chinatown,Entire home/apt,204.31,5,22,1.01,95,1
+100565,Sample Stay 565,Bugis,Private room,69.93,1,99,4.81,82,1
+100566,Sample Stay 566,Orchard,Private room,169.1,1,0,0.0,240,2
+100567,Sample Stay 567,Queenstown,Private room,103.8,7,50,1.96,112,1
+100568,Sample Stay 568,Kallang,Private room,93.42,7,37,1.48,172,1
+100569,Sample Stay 569,Marina Bay,Entire home/apt,243.66,7,66,3.0,135,1
+100570,Sample Stay 570,Little India,Entire home/apt,168.71,1,15,1.06,0,1
+100571,Sample Stay 571,Little India,Entire home/apt,57.45,4,9,1.57,239,2
+100572,Sample Stay 572,Little India,Private room,89.76,14,88,4.02,70,3
+100573,Sample Stay 573,Queenstown,Private room,100.82,5,17,0.89,154,1
+100574,Sample Stay 574,Kallang,Private room,77.23,2,68,3.16,127,2
+100575,Sample Stay 575,Queenstown,Entire home/apt,163.76,2,21,0.91,200,1
+100576,Sample Stay 576,Orchard,Entire home/apt,220.18,3,5,0.65,268,1
+100577,Sample Stay 577,Orchard,Private room,119.58,3,21,2.99,116,3
+100578,Sample Stay 578,Bugis,Entire home/apt,228.05,2,19,0.78,205,5
+100579,Sample Stay 579,Orchard,Entire home/apt,260.49,14,8,0.36,154,1
+100580,Sample Stay 580,Bugis,Private room,106.99,3,31,2.51,114,3
+100581,Sample Stay 581,Geylang,Entire home/apt,161.39,3,17,1.09,215,1
+100582,Sample Stay 582,Orchard,Private room,143.42,2,16,2.73,48,1
+100583,Sample Stay 583,Orchard,Private room,158.34,7,19,0.87,163,1
+100584,Sample Stay 584,Queenstown,Private room,74.82,5,26,1.06,280,1
+100585,Sample Stay 585,Little India,Entire home/apt,145.49,7,134,7.18,86,2
+100586,Sample Stay 586,Geylang,Private room,48.51,2,14,1.61,104,2
+100587,Sample Stay 587,Queenstown,Private room,77.72,14,10,0.58,164,1
+100588,Sample Stay 588,Chinatown,Private room,68.22,3,55,4.99,47,1
+100589,Sample Stay 589,Geylang,Entire home/apt,136.73,2,0,0.0,207,1
+100590,Sample Stay 590,Marina Bay,Private room,107.34,1,18,1.75,224,2
+100591,Sample Stay 591,Chinatown,Private room,102.92,2,11,1.15,231,2
+100592,Sample Stay 592,Chinatown,Entire home/apt,174.56,2,37,2.81,207,1
+100593,Sample Stay 593,Chinatown,Shared room,71.2,1,6,0.46,233,1
+100594,Sample Stay 594,Queenstown,Private room,108.94,2,49,1.99,139,2
+100595,Sample Stay 595,Queenstown,Private room,132.47,1,0,0.0,157,2
+100596,Sample Stay 596,Kallang,Shared room,44.18,1,9,1.22,194,5
+100597,Sample Stay 597,Orchard,Entire home/apt,330.42,1,14,1.29,155,1
+100598,Sample Stay 598,Bugis,Entire home/apt,203.78,4,27,1.67,147,1
+100599,Sample Stay 599,Little India,Private room,105.74,1,71,2.83,165,1
+100600,Sample Stay 600,Bugis,Entire home/apt,190.75,2,75,9.33,0,5

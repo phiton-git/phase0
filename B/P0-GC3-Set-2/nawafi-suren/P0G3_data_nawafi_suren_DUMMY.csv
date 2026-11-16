@@ -1,0 +1,121 @@
+page,listing_id,Lokasi,Luas Tanah,Luas Bangunan,Carport,Jumlah Kamar Tidur,Jumlah Kamar Mandi,Harga Rumah
+1,BK0101,"Pondok Gede, Bekasi",78 m²,40 m²,0,2,1,Rp 450 Juta
+1,BK0102,"Babelan, Bekasi",100 m²,55 m²,2,4,3,Rp 1.0 Miliar
+1,BK0103,"Jatiasih, Bekasi",79 m²,35 m²,2,3,3,Rp 790 Juta
+1,BK0104,"Rawalumbu, Bekasi",173 m²,148 m²,2,5,2,Rp 1.4 Miliar
+1,BK0105,"Pondok Gede, Bekasi",141 m²,77 m²,2,3,2,Rp 890 Juta
+1,BK0106,"Pondok Gede, Bekasi",124 m²,120 m²,3,6,4,Rp 1.2 Miliar
+1,BK0107,"Bekasi Selatan, Bekasi",116 m²,80 m²,1,5,3,Rp 740 Juta
+1,BK0108,"Medan Satria, Bekasi",124 m²,76 m²,0,3,2,Rp 740 Juta
+1,BK0109,"Medan Satria, Bekasi",175 m²,130 m²,3,6,5,Rp 1.1 MiliarHEMAT 50 Jutaan
+1,BK0110,"Tambun Selatan, Bekasi",163 m²,108 m²,0,6,4,Rp 960 Juta
+2,BK0201,"Mustika Jaya, Bekasi",122 m²,58 m²,0,4,3,Rp 840 Juta
+2,BK0202,"Pondok Gede, Bekasi",183 m²,147 m²,2,7,4,Rp 1.3 Miliar
+2,BK0203,"Bekasi Utara, Bekasi",50 m²,30 m²,0,2,1,Rp 570 Juta
+2,BK0204,"Mustika Jaya, Bekasi",137 m²,92 m²,1,5,4,Rp 1.1 Miliar
+2,BK0205,"Medan Satria, Bekasi",70 m²,33 m²,0,3,3,Rp 360 Juta
+2,BK0206,"Jatisampurna, Bekasi",156 m²,105 m²,0,5,4,Rp 1.2 Miliar
+2,BK0207,"Mustika Jaya, Bekasi",91 m²,61 m²,1,4,3,Rp 770 Juta
+2,BK0208,"Tambun Selatan, Bekasi",94 m²,50 m²,2,2,2,Rp 830 Juta
+2,BK0209,"Rawalumbu, Bekasi",45 m²,39 m²,1,2,1,Rp 550 JutaHEMAT 50 Jutaan
+2,BK0210,"Babelan, Bekasi",127 m²,109 m²,1,6,4,Rp 780 Juta
+3,BK0301,"Bekasi Barat, Bekasi",160 m²,145 m²,1,7,5,Rp 1.2 Miliar
+3,BK0302,"Medan Satria, Bekasi",101 m²,91 m²,1,5,3,Rp 1.0 Miliar
+3,BK0303,"Medan Satria, Bekasi",129 m²,40 m²,0,2,2,Rp 750 Juta
+3,BK0304,"Mustika Jaya, Bekasi",136 m²,69 m²,0,3,2,Rp 820 Juta
+3,BK0305,"Pondok Gede, Bekasi",70 m²,51 m²,0,4,2,Rp 640 Juta
+3,BK0306,"Jatiasih, Bekasi",148 m²,77 m²,1,5,3,Rp 960 Juta
+3,BK0307,"Bekasi Timur, Bekasi",141 m²,87 m²,0,4,3,Rp 840 Juta
+3,BK0308,"Pondok Gede, Bekasi",77 m²,31 m²,3,4,4,Rp 630 Juta
+3,BK0309,"Jatisampurna, Bekasi",101 m²,73 m²,2,4,4,Rp 760 JutaHEMAT 50 Jutaan
+3,BK0310,"Jatisampurna, Bekasi",118 m²,30 m²,2,3,3,Rp 920 Juta
+4,BK0401,"Bekasi Barat, Bekasi",85 m²,50 m²,2,3,2,Rp 930 Juta
+4,BK0402,"Jatisampurna, Bekasi",101 m²,34 m²,2,2,2,Rp 680 Juta
+4,BK0403,"Pondok Gede, Bekasi",85 m²,72 m²,1,4,2,Rp 710 Juta
+4,BK0404,"Babelan, Bekasi",111 m²,60 m²,0,4,4,Rp 710 Juta
+4,BK0405,"Jatisampurna, Bekasi",55 m²,38 m²,0,3,2,Rp 510 Juta
+4,BK0406,"Bekasi Selatan, Bekasi",108 m²,51 m²,1,3,2,Rp 620 Juta
+4,BK0407,"Rawalumbu, Bekasi",76 m²,65 m²,1,4,2,Rp 850 Juta
+4,BK0408,"Jatiasih, Bekasi",54 m²,59 m²,2,4,4,Rp 860 Juta
+4,BK0409,"Rawalumbu, Bekasi",125 m²,106 m²,1,5,3,Rp 880 JutaHEMAT 50 Jutaan
+4,BK0410,"Bekasi Timur, Bekasi",185 m²,151 m²,2,7,3,Rp 1.3 Miliar
+5,BK0501,"Rawalumbu, Bekasi",112 m²,88 m²,1,3,2,Rp 830 Juta
+5,BK0502,"Tambun Selatan, Bekasi",143 m²,67 m²,2,5,3,Rp 900 Juta
+5,BK0503,"Jatisampurna, Bekasi",63 m²,44 m²,2,4,4,Rp 800 Juta
+5,BK0504,"Jatiasih, Bekasi",98 m²,66 m²,0,4,4,Rp 670 Juta
+5,BK0505,"Bekasi Timur, Bekasi",121 m²,119 m²,1,6,5,Rp 810 Juta
+5,BK0506,"Tambun Selatan, Bekasi",46 m²,48 m²,0,4,4,Rp 510 Juta
+5,BK0507,"Bekasi Barat, Bekasi",166 m²,121 m²,1,5,3,Rp 1.2 Miliar
+5,BK0508,"Mustika Jaya, Bekasi",60 m²,51 m²,1,3,3,Rp 650 Juta
+5,BK0509,"Bekasi Timur, Bekasi",45 m²,37 m²,0,4,4,Rp 400 JutaHEMAT 50 Jutaan
+5,BK0510,"Tambun Selatan, Bekasi",83 m²,55 m²,1,3,2,Rp 600 Juta
+6,BK0601,"Pondok Gede, Bekasi",165 m²,95 m²,2,5,4,Rp 1.2 Miliar
+6,BK0602,"Medan Satria, Bekasi",149 m²,100 m²,1,4,3,Rp 1.2 Miliar
+6,BK0603,"Pondok Gede, Bekasi",186 m²,165 m²,2,7,5,Rp 1.4 Miliar
+6,BK0604,"Medan Satria, Bekasi",53 m²,30 m²,1,4,2,Rp 410 Juta
+6,BK0605,"Babelan, Bekasi",111 m²,81 m²,2,5,4,Rp 1.0 Miliar
+6,BK0606,"Bekasi Timur, Bekasi",169 m²,171 m²,1,7,5,Rp 1.1 Miliar
+6,BK0607,"Bekasi Utara, Bekasi",126 m²,67 m²,1,4,3,Rp 730 Juta
+6,BK0608,"Bekasi Timur, Bekasi",45 m²,30 m²,3,3,2,Rp 530 Juta
+6,BK0609,"Medan Satria, Bekasi",91 m²,65 m²,2,2,2,Rp 890 JutaHEMAT 50 Jutaan
+6,BK0610,"Babelan, Bekasi",76 m²,31 m²,1,3,2,Rp 660 Juta
+7,BK0701,"Mustika Jaya, Bekasi",147 m²,81 m²,2,3,2,Rp 1.1 Miliar
+7,BK0702,"Pondok Gede, Bekasi",159 m²,135 m²,0,6,5,Rp 1.1 Miliar
+7,BK0703,"Bekasi Barat, Bekasi",148 m²,112 m²,2,6,4,Rp 1.1 Miliar
+7,BK0704,"Jatisampurna, Bekasi",45 m²,43 m²,1,4,2,Rp 680 Juta
+7,BK0705,"Jatisampurna, Bekasi",187 m²,184 m²,1,7,4,Rp 1.2 Miliar
+7,BK0706,"Pondok Gede, Bekasi",45 m²,46 m²,2,2,2,Rp 710 Juta
+7,BK0707,"Jatisampurna, Bekasi",45 m²,37 m²,0,2,1,Rp 510 Juta
+7,BK0708,"Babelan, Bekasi",114 m²,106 m²,1,6,5,Rp 910 Juta
+7,BK0709,"Pondok Gede, Bekasi",154 m²,108 m²,1,6,3,Rp 1.1 MiliarHEMAT 50 Jutaan
+7,BK0710,"Tambun Selatan, Bekasi",54 m²,39 m²,2,3,2,Rp 660 Juta
+8,BK0801,"Jatiasih, Bekasi",110 m²,104 m²,0,4,3,Rp 830 Juta
+8,BK0802,"Jatiasih, Bekasi",144 m²,122 m²,3,5,4,Rp 1.2 Miliar
+8,BK0803,"Tambun Selatan, Bekasi",77 m²,58 m²,0,3,2,Rp 420 Juta
+8,BK0804,"Bekasi Selatan, Bekasi",45 m²,34 m²,1,3,2,Rp 540 Juta
+8,BK0805,"Jatisampurna, Bekasi",94 m²,99 m²,0,4,3,Rp 740 Juta
+8,BK0806,"Medan Satria, Bekasi",130 m²,97 m²,1,6,3,Rp 1.1 Miliar
+8,BK0807,"Rawalumbu, Bekasi",102 m²,75 m²,1,4,2,Rp 900 Juta
+8,BK0808,"Jatisampurna, Bekasi",61 m²,30 m²,1,2,1,Rp 560 Juta
+8,BK0809,"Bekasi Barat, Bekasi",103 m²,96 m²,1,5,3,Rp 750 JutaHEMAT 50 Jutaan
+8,BK0810,"Tambun Selatan, Bekasi",45 m²,33 m²,1,3,2,Rp 490 Juta
+9,BK0901,"Rawalumbu, Bekasi",66 m²,55 m²,0,4,4,Rp 460 Juta
+9,BK0902,"Mustika Jaya, Bekasi",118 m²,66 m²,0,4,2,Rp 760 Juta
+9,BK0903,"Mustika Jaya, Bekasi",64 m²,38 m²,3,3,4,Rp 660 Juta
+9,BK0904,"Bekasi Barat, Bekasi",90 m²,88 m²,0,4,3,Rp 780 Juta
+9,BK0905,"Bekasi Timur, Bekasi",113 m²,66 m²,2,5,3,Rp 900 Juta
+9,BK0906,"Tambun Selatan, Bekasi",152 m²,79 m²,2,4,3,Rp 1.1 Miliar
+9,BK0907,"Bekasi Timur, Bekasi",139 m²,117 m²,0,6,5,Rp 900 Juta
+9,BK0908,"Jatisampurna, Bekasi",137 m²,81 m²,1,3,2,Rp 840 Juta
+9,BK0909,"Tambun Selatan, Bekasi",155 m²,150 m²,1,6,4,Rp 920 JutaHEMAT 50 Jutaan
+9,BK0910,"Bekasi Utara, Bekasi",90 m²,50 m²,1,3,2,Rp 760 Juta
+10,BK1001,"Babelan, Bekasi",123 m²,65 m²,2,4,3,Rp 700 Juta
+10,BK1002,"Jatiasih, Bekasi",112 m²,110 m²,2,6,4,Rp 1.0 Miliar
+10,BK1003,"Mustika Jaya, Bekasi",169 m²,118 m²,0,7,3,Rp 1.2 Miliar
+10,BK1004,"Bekasi Timur, Bekasi",111 m²,74 m²,2,2,2,Rp 670 Juta
+10,BK1005,"Bekasi Selatan, Bekasi",109 m²,85 m²,3,4,3,Rp 1.0 Miliar
+10,BK1006,"Medan Satria, Bekasi",59 m²,61 m²,3,3,1,Rp 790 Juta
+10,BK1007,"Mustika Jaya, Bekasi",127 m²,76 m²,1,3,1,Rp 710 Juta
+10,BK1008,"Rawalumbu, Bekasi",73 m²,50 m²,3,3,3,Rp 820 Juta
+10,BK1009,"Jatiasih, Bekasi",169 m²,112 m²,0,6,3,Rp 910 JutaHEMAT 50 Jutaan
+10,BK1010,"Babelan, Bekasi",162 m²,87 m²,1,5,3,Rp 950 Juta
+11,BK1101,"Rawalumbu, Bekasi",77 m²,65 m²,2,3,3,Rp 670 Juta
+11,BK1102,"Bekasi Utara, Bekasi",165 m²,127 m²,1,5,3,Rp 1.1 Miliar
+11,BK1103,"Tambun Selatan, Bekasi",131 m²,81 m²,1,4,3,Rp 900 Juta
+11,BK1104,"Bekasi Barat, Bekasi",119 m²,103 m²,1,5,3,Rp 840 Juta
+11,BK1105,"Mustika Jaya, Bekasi",45 m²,42 m²,2,3,3,Rp 760 Juta
+11,BK1106,"Pondok Gede, Bekasi",45 m²,30 m²,1,2,2,Rp 310 Juta
+11,BK1107,"Jatisampurna, Bekasi",99 m²,73 m²,1,5,4,Rp 810 Juta
+11,BK1108,"Tambun Selatan, Bekasi",45 m²,42 m²,1,2,2,Rp 580 Juta
+11,BK1109,"Medan Satria, Bekasi",115 m²,63 m²,0,4,2,Rp 670 JutaHEMAT 50 Jutaan
+11,BK1110,"Jatisampurna, Bekasi",112 m²,84 m²,1,4,3,Rp 780 Juta
+12,BK1201,"Bekasi Timur, Bekasi",126 m²,78 m²,2,4,3,Rp 1.0 Miliar
+12,BK1202,"Rawalumbu, Bekasi",157 m²,154 m²,3,7,4,Rp 1.5 Miliar
+12,BK1203,"Bekasi Barat, Bekasi",223 m²,157 m²,1,6,5,Rp 1.2 Miliar
+12,BK1204,"Jatisampurna, Bekasi",170 m²,159 m²,1,7,5,Rp 1.3 Miliar
+12,BK1205,"Pondok Gede, Bekasi",135 m²,82 m²,1,4,3,Rp 1.1 Miliar
+12,BK1206,"Bekasi Utara, Bekasi",78 m²,61 m²,2,4,4,Rp 680 Juta
+12,BK1207,"Bekasi Timur, Bekasi",86 m²,48 m²,0,3,2,Rp 590 Juta
+12,BK1208,"Bekasi Timur, Bekasi",45 m²,30 m²,1,3,2,Rp 490 Juta
+12,BK1209,"Babelan, Bekasi",134 m²,99 m²,2,5,4,Rp 830 JutaHEMAT 50 Jutaan
+12,BK1210,"Jatiasih, Bekasi",136 m²,105 m²,2,6,5,Rp 1.1 Miliar
